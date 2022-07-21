@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Moses
 
 
-- 🔭 I’m currently a Software Development(Full-stack) student at Moringa School.
+- 🔭 I’m a Software Developer(Full-stack).
 - 🌱 I’m currently learning React, Ruby on Rails.
 - 👯 I’m looking to collaborate on any FrontEnd development projects.
 - 💬 Ask me about HTML, CSS, JavaScript, Bootstrap,Angular,Python-Flask/Django..
