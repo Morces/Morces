@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m a Software Developer(Full-stack).
-- 🌱 I’m currently learning React, Ruby on Rails.
+- 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on any BackEnd development projects.
-- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap,Angular,Python-Flask/Django..
+- 💬 Ask me about HTML, CSS, JavaScript, TailwindCSS,React,Python-Flask/Django..
 - 📫 How to reach me: karanim594@gmail.com
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: I'm not as serious as I look.(embivert)
