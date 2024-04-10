@@ -1,7 +1,7 @@
 ### Hi, I'm Moses Karani.
 
 # 💫 About Me:
-🔭 I’m a Software Engineer.<br>🌱 I’m currently learning Node.js.<br>👯 I’m looking to collaborate on any Front End projects.<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, ReactJS.<br>📫 How to reach me: karanim594@gmail.com<br>😄 Pronouns: HE/HIS<br>⚡ Fun fact: I'm an ambivert
+🔭 I’m a Software Engineer.<br>🌱 I’m currently learning Nextjs.<br>👯 I’m looking to collaborate on any Front End projects.<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, React, React Native, Nodejs/Expressjs.<br>📫 How to reach me: karanim594@gmail.com<br>😄 Pronouns: HE/HIS<br>⚡ Fun fact: I'm an ambivert
 
 
 ## 🌐 Socials:
